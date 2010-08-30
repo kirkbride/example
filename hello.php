@@ -8,6 +8,8 @@ if (!($user_name == '')) {
 	echo "Hello world!";
 }
 
+echo "Good-bye!";
+
 exit;
 
 ?>
